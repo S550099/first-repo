@@ -1,3 +1,2 @@
-# first-repo
-
-ChanduGoud - is a good man
+# first-repo 
+Hey this is chandugoud
